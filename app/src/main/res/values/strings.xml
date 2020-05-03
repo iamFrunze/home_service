@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Home Service</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Дом-Сервис</string>
+    <string name="nav_header_subtitle">ИП Коротков А.В.</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="send_success">Сообщение отправлено</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_home">Главная</string>
+    <string name="nav_online_reg">Онлайн-запись</string>
+    <string name="nav_service">Услуги</string>
+    <string name="nav_feedback">Обратная связь</string>
+    <string name="error">Ошибка</string>
+    <string name="successful">Успешно</string>
+    <string name="montaj">Монтаж вводно-распределительного устройства</string>
+    <string name="el_montaj">Электромонтажные работы</string>
+    <string name="avr">Ремонт АВР</string>
+    <string name="domophone">Монтаж комбинированного многоквартирного аудио- видеодомофона</string>
+    <string name="our_service">Наши услуги</string>
+    <string name="montaj_desc">Для распределения и контроля поступающей электрической энергии в квартиру или дома используется большое количество разнообразных приборов. Вводно-распределительное устройство позволяет сгруппировать их и обеспечить экономию пространства, которое они занимают.</string>
+    <string name="send">Записаться</string>
+    <string name="el_montaj_desc">Электромонтажные работы играют важную роль в работе всех электроприборов, подключённых к ней. Работа выполненная неопытным специалистом может привести к поломке электроприборов и пожару. Поэтому советуем Вам обратиться в компанию Один Момент. Наши мастера — это профессионалы с многолетним стажем. Мы гарантируем качество нашей работы и подтверждаем её документально, предоставляя гарантию на проведённые работы.</string>
+    <string name="avr_desc"><![CDATA[Наша организация предлагает профессиональный ремонт АВР. Щит автоматического ввода резерва нуждается в регулярном обслуживании и своевременном устранении неполадок. Его назначение – переключение на резервный источник питания в автоматическом режиме. Установка АВР необходима на любом промышленном или торговом объекте, где нельзя допускать отключения электричества. Щит обеспечивает мгновенный переход на бензиновый или дизельный генератор, поэтому он должен постоянно поддерживаться в исправном состоянии.]]></string>
+    <string name="domophone_desc"><![CDATA[Чтобы быть уверенным в сохранности своего имущества, нельзя допускать вход в подъезд незнакомых людей. В плане безопасности жителям городов помогает домофон. Чтобы установка домофона в многоквартирном доме была быстрой и имела адекватную цену, обратитесь в Дом-Сервис и мы подберем для Вас специалистов, которые выгодно и качественно сделают монтаж.]]></string>
+    <string name="home_service">Дом-Сервис</string>
+    <string name="home_service_desc_1">Мы создаем комплексные решения для сложных задач</string>
+    <string name="home_service_desc_2">С 2013 года мы работаем над безопасной эксплуатацией электроустановок многоквартирных домов. Мы неизменно стремимся использовать новейшие технологии с целью улучшения условий жизни общества. Мы оказываем услуги по техническому обслуживанию и текущему ремонту внутридомовых инженерных систем.</string>
+    <string name="second_name">Фамилия</string>
+    <string name="first_name">Имя</string>
+    <string name="num_tel">Номер телефона</string>
+    <string name="report">Возникшая проблема</string>
+    <string name="call">Связаться</string>
+    <string name="contacts_data">Контактные данные</string>
+    <string name="address">Адрес</string>
+    <string name="dop_info">Дополнительная инфаормация</string>
+</resources>

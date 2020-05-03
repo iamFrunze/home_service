@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.byfrunze.homeservice.fragments.HomeFragment"
+        android:label="fragment_home2"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/nav_online_reg"
+        android:name="com.byfrunze.homeservice.fragments.OnlineRegFragment"
+        android:label="fragment_online_reg"
+        tools:layout="@layout/fragment_online_reg" />
+    <fragment
+        android:id="@+id/nav_feedback"
+        android:name="com.byfrunze.homeservice.fragments.FeedBackFragment"
+        android:label="fragment_feed_back"
+        tools:layout="@layout/fragment_feed_back" />
+    <fragment
+        android:id="@+id/nav_service"
+        android:name="com.byfrunze.homeservice.fragments.ServiceFragment"
+        android:label="fragment_service"
+        tools:layout="@layout/fragment_service" >
+        <action
+            android:id="@+id/action_nav_service_to_nav_online_reg"
+            app:destination="@id/nav_online_reg" />
+    </fragment>
+</navigation>

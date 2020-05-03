@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "97964920938",
+    "firebase_url": "https://home-service-bb42a.firebaseio.com",
+    "project_id": "home-service-bb42a",
+    "storage_bucket": "home-service-bb42a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97964920938:android:c241231de2e6b8ede03a13",
+        "android_client_info": {
+          "package_name": "com.byfrunze.homeservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97964920938-8daphmcnghjdg74179qfn86f9gi7ncum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.byfrunze.homeservice",
+            "certificate_hash": "3b7bdcae332c54b4202e387f2b0a0aec1f917dc8"
+          }
+        },
+        {
+          "client_id": "97964920938-kf8tasbspkf9ge06q2erp0lapeek1gkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC52qnAnMFB3jFT1inqHauvNiABRKEvtNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97964920938-kf8tasbspkf9ge06q2erp0lapeek1gkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
